@@ -21,7 +21,9 @@ https://github.com/minanagehsalalma/A-Java-Book-Store-Library-With-A-GUI/assets/
 
 # Usage 
 - Just Run The EXE file or The already Built JAR file it requires Minimum JRE version `1.8.0`
+
 OR
+
 - Import the Version Of the program you like , be selecting its zip file into the import option of NetBeans 
 ![image](https://github.com/minanagehsalalma/A-Java-Book-Store-Library-With-A-GUI/assets/20546638/6f7dab98-f629-4c6f-ba82-b477d35e975f)
 
