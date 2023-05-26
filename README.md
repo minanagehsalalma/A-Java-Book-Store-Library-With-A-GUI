@@ -4,10 +4,17 @@ A Java Book Store Library With A GUI That allows adding and removing books , wit
 # The Gui Version 
 It's made of Five Classes : 
 1. Main 2. Book 3. Customer 4. User 5. Cart
+The Admin password is `admin123`
+
+
+https://github.com/minanagehsalalma/A-Java-Book-Store-Library-With-A-GUI/assets/20546638/1d00d77d-6acd-4384-baf1-20071cc5c608
+
+
 
 # The Console Version 
 It's made of Five Classes : 
 1. Main 2. Book 3. Customer 4. User 5. Cart
+The Admin password is `admin123`
 
 
 https://github.com/minanagehsalalma/A-Java-Book-Store-Library-With-A-GUI/assets/20546638/e3e6579b-c769-4204-aa49-d29d8b82934c
